@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: sunilapp
-        image: sunildev99/argocd:9
+        image: sunildev99/argocd:10
         ports:
         - containerPort: 8080
